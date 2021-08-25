@@ -1,0 +1,11 @@
+console.log("Hola mundo");
+var a = 18;
+var b = 73;
+var resultado = a + b;
+console.log(resultado);
+var resta = a - b;
+console.log("La resta es " + resta);
+var multiplicacion = a * b;
+console.log("La multiplicación de " + a + " por " + b + " es " + multiplicacion);
+var division = a / b;
+console.log("La divisao de " + a + " entre " + b + " es " + division);
